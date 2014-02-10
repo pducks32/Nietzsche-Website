@@ -1,0 +1,18 @@
+{
+  "name": "Nietzsche-Website",
+  "version": "0.0.0",
+  "homepage": "https://github.com/pducks32/Nietzsche-Website",
+  "authors": [
+    "Patrick Metcalfe <git@patrickmetcalfe.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
